@@ -1,0 +1,9 @@
+
+/*
+ * @file
+ * Contain positioned elements.
+ */
+
+.position-container {
+  position: relative;
+}

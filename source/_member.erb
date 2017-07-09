@@ -1,0 +1,44 @@
+<div class="col-sm-4">
+    <div class="team-member">
+        <% if  @tm[:role] == "team"%>
+            <div class="team-role team-team">Team</div>
+        <% else %>
+            <div class="team-role team-partner">Partner</div>
+        <% end %>
+        <div class="team-image">
+        <%= image_tag @tm[:imagepath], :width => '600', :height=> '400'%>
+        </div>
+        <div class="team-info">
+            <h3><%= @tm[:name] %></h3><span><%= @tm[:responsability] %></span>
+        </div>
+        <div class="team-logo">
+            <%= image_tag @tm[:logopath], :width => '250', :height=> '120'%>
+        </div>
+        <a href="#member-<%= @tm[:shortform] %>" data-lity>Open bio</a>
+        <div id="member-<%= @tm[:shortform] %>" class="team-bio lity-hide">
+            <div class="member-container">
+                <%= image_tag @tm[:modalimagepath], :width => '790', :height=> '263'%>
+                <div class="modal-body">
+                    <div class="team-bio">
+                        <blockquote>
+                            <%= @tm[:quote] %>
+
+                            <p><strong><%= @tm[:name] %></strong></p>
+                        </blockquote>
+                        <%= @tm[:underquote] %>
+                        <div class="team-social">
+                            <ul>
+                            <% unless @tm[:linkedin].blank? %>
+                                <li><a href="<%= @tm[:linkedin] %>" target="_blank"><i class="ti-linkedin"></i></a></li>
+                            <% end %>
+                            <% unless @tm[:website].blank? %>
+                                <li><a href="<%= @tm[:website] %>" target="_blank"><i class="ti-link"></i></a></li>
+                            <% end %>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

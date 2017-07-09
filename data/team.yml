@@ -1,0 +1,72 @@
+team:
+
+
+- shortform: "gschwarz"
+  name: "Dr. Gabriele Schwarz"
+  role: team
+  responsability: "Geschäftsführerin &amp; Wirtschaftsinformatikerin"
+  quote: >
+      <p>Mit Leidenschaft für Innovation und einer langjähriger Erfahrung unterstütze
+      ich meine Kunden bei der Erarbeitung Ihrer Innovationsstrategien und
+      deren Umsetzung. Als Coach und Mentor stehe ich Ihnen auch in herausfordernden
+      Zeiten vor Ort zur Seite.</p>
+  underquote: >
+    <p>Studium mit Promotion an der Universität St.Gallen (Informations- und Technologiemanagement),
+    Dr. oec HSG, Weiterbildungen an der Harvard Business School (Press) U.S.A.
+    und der Universität St.Gallen</p>
+    <p>Gabriele Schwarz ist Gründungspartnerin von Innovista Management und mandatierte
+    Innovationsmentorin bei der Kommission für Technologie und Innovation (KTI)
+    des Bundes</p>
+  imagepath: team/gaby.jpeg
+  modalimagepath: team/gaby-modal.jpg
+  logopath: base/logo.png
+  linkedin: https://www.linkedin.com/in/gabriele-schwarz-92529739/
+
+
+
+
+- shortform: "dzollikofer"
+  name: "David Zollikofer"
+  role: team
+  responsability: "Backoffice Verantwortlicher &amp; angehender Physiker"
+  quote: >
+    <p>Es ist immer wieder faszinieren zu sehen, wie Innovativ die Schweiz ist.</p>
+    <p>Auch ich will hierzu meinen Beitrag leisten indem ich sicherstelle, dass auch wir bei der Innovista
+    innovativ und agil bleiben.</p>
+    <p>Mit meiner Arbeit unterstütze ich die Kernprozesse und sorge dafür, dass alle unseren Tätigkeiten
+    mit der nötigen Effizienz ablaufen, damit sich das Kernteam komplett auf die Beratung unserer
+    Kunden konzentrieren kann.</p>
+  underquote: >
+    <p>Obwohl "Hauptberuflich" Physikstudent an der ETH Zürich, arbeitet er als IT &amp; Backoffice Guru
+    bei Innovista.</p>
+  website: http://www.davidrzs.com
+  imagepath: team/david.jpg
+  modalimagepath: team/david-modal.jpg
+  logopath: base/logo.png
+
+
+
+- shortform: "usury"
+  name: "Prof. RA Ursula Sury"
+  role: partner
+  responsability: "(Rechtsanwältin), Spezialistin für Datenschutz und IT Recht"
+  quote: >
+    <p>Mit Leidenschaft für Innovation und einer langjähriger Erfahrung unterstütze
+    ich meine Kunden bei der Erarbeitung Ihrer Innovationsstrategien und
+    deren Umsetzung. Als Coach und Mentor stehe ich Ihnen auch in herausfordernden
+    Zeiten vor Ort zur Seite.</p>
+  underquote: >
+    <p>Da ich sowohl die Sprache der Wirtschaft wie auch diejenige der Juristen
+    spreche, ermöglicht dies mir, juristisch einwandfreie Dienstleistungen
+    zu erbringen, die ökonomisch sinnvoll und tragbar sind, auch für kleine
+    und mittlere Unternehmen. Somit kann ich Ihnen helfen, die rechtlichen
+    Risiken bei Ihren Innovationsvorhaben auf ein unternehmerisch sinnvolles
+    Niveau zu reduzieren.</p>
+  imagepath: team/ursula.jpeg
+  modalimagepath: team/ursula-modal.jpg
+  logopath: base/logo.png
+  linkedin: https://www.linkedin.com/in/ursula-sury-45a1949/
+  website: "http://www.dieadvokatur.ch/"
+
+
+
