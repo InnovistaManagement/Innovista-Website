@@ -1,7 +1,7 @@
 <header id="topnav">
         <div class="container">
             <div id="block-comets-branding" class="logo">
-                <a href="/de">
+                <a href="../">
                 <%= image_tag 'base/logo.png', :width => 'auto', :height => 'auto', :alt => 'Innovista Management GmbH', :class => 'logo-light' %>
                 <%= image_tag 'base/logo-dark.png', :width => 'auto', :height => 'auto', :alt => 'Innovista Management GmbH', :class => 'logo-dark' %>
                 </a>
@@ -27,13 +27,13 @@
 
                         <ul class="submenu">
                             <li>
-                                <a href="/de/products/innoplus" data-drupal-link-system-path="node/112">Innoplus</a>
+                            <%= link_to 'Innoplus', '/products/innoplus'%>
                             </li>
                             <li>
                             <%= link_to 'Innofit', '/products/innofit'%>
                             </li>
                             <li>
-                                <a href="/de/products/innovista-education" data-drupal-link-system-path="node/114">Schulungen</a>
+                            <%= link_to 'Schulungen', '/products/schulungen'%>
                             </li>
                         </ul>
                     </li>

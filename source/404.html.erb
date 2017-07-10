@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<%= partial "head" %>
+
+    <body class="path-frontpage">
+        <!-- Preloader-->
+        <div id="loader">
+            <div class="centrize">
+                <div class="v-center">
+                    <div id="mask">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a href="#main-content" class="visually-hidden focusable">
+            Direkt zum Inhalt
+        </a>
+
+        <%= partial "header" %>
+
+    <section id="error-404" class="parallax">
+      <div data-parallax="scroll" data-image-src="images/backgrounds/404.jpg" class="parallax-bg"></div>
+      <div class="parallax-overlay">
+        <div class="centrize">
+          <div class="v-center">
+            <div class="container">
+              <div class="error-page"><i class="icon-sad"></i>
+                <div class="title">
+                  <h2 class="mb-25 upper">Fehler 404<span class="red-dot"></span></h2>
+                  <h4 class="upper">Oha, das hätte nicht passieren sollen. Diese Seite ist nicht verfügbar.   </h4>
+                </div>
+   
+                <a href="../" class="btn btn-color">Zurück zur Startseite</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+          
+
+                        <%= partial "footer" %>
+
+    </body>
+
+</html>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<%= partial "head" %>
+
+    <body>
+        <div id="loader">
+            <div class="centrize">
+                <div class="v-center">
+                    <div id="mask">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Preloader-->
+        <!-- Navigation Bar-->
+        <%= partial "header" %>
+            <!-- End Navigation Bar-->
+
+
+
+            <section class="page-title parallax">
+                <div data-parallax="scroll" data-image-src="/images/backgrounds/train.jpg" class="parallax-bg"></div>
+                <div class="parallax-overlay">
+                    <div class="centrize">
+                        <div class="v-center">
+                            <div class="container">
+                                <div class="title center">
+                                    <h1 class="upper">Innoplus<span class="red-dot"></span></h1>
+                                    <h4></h4>
+                                    <hr>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+                <div class="container">
+                    <div class="section-content">
+                        <div class="row">
+
+
+                            <div class="container">
+                                <div class="row">
+
+                                    <div class="col-sm-12">
+                                        <div class="servic">
+                                            <div class="row">
+
+                                                <div class="col-sm-8 col-sm-offset-2">
+                                                    <div class="service">
+                                                        <i class="fa fa-plus fa-2x"></i>
+
+                                                        <p>Mit meinem Erfahrungshintergrund von inzwischen über 90 aufgegleisten
+                                                            Projekten gebe ich meine Kunden eine zeitnahe unabhängige Zweitmeinung
+                                                            und zeige die Chancen und Risiken auf. Gemeinsam erarbeiten wir
+                                                            ein Argumentarium für das Topmanagement oder den Verwaltungsrat.
+                                                            Mit iplus (das Produkt resultierte aus einem KTI-Projekt mit
+                                                            der ETH Zürich) können wir die Innovationsfähigkeit ihres Unternehmens
+                                                            messen. Inno Plus ist projektbezogen.
+                                                        </p>
+                                                    </div>
+                                                    <!-- end of service-->
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                        <!-- end of row-->
+                                    </div>
+                                </div>
+                                <!-- end of row -->
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <%= partial 'zusammenarbeit_reasons' %>
+
+                <section id="contact">
+
+                    <div class="container">               
+                        <div class="title center">
+                            <h3>Überzeugt<span class="red-dot red-dot-question">?</span></h3>
+                            <hr>
+                            <h4 class="upper max-width">Wir freuen uns auf Ihre Kontaktaufnahme</h4>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="icon-box-small"><i class="icon-map"></i>
+                                    <hr>
+                                    <h4>Adresse</h4>
+                                    <p><a href="https://www.google.com/maps/dir//Innovista+Management+GmbH,+Seestrasse+101,+8707+Uetikon+am+See,+Switzerland/@47.259764,8.5348703,11z/data=!4m15!1m6!3m5!1s0x479aaf95a653875d:0x6b236500a679a7a3!2sInnovista+Management+GmbH!8m2!3d47.259764!4d8.674946!4m7!1m0!1m5!1m1!1s0x479aaf95a653875d:0x6b236500a679a7a3!2m2!1d8.674946!2d47.259764"
+                                            target="_blank"><span>Seestrasse 101</span><span>8707 Uetikon am See/ZH</span></a>
+                                    </p>
+                                </div>
+                                <!-- end of icon box-->
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="icon-box-small"><i class="icon-phone"></i>
+                                    <hr>
+                                    <h4>Telefon </h4>
+                                    <p><a href="tel:0438443170"><span>043 844 31 70</span></a>
+                                    </p>
+                                </div>
+                                <!-- end of icon box-->
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="icon-box-small"><i class="icon-envelope"></i>
+                                    <hr>
+                                    <h4>E-Mail</h4>
+                                    <p><a href="mailto:info@innovista.ch"><span>info@innovista.ch</span></a>
+                                    </p>
+                                </div>
+                                <!-- end of icon box-->
+                            </div>
+                        </div>
+                        <!-- end of row-->
+                    </div>
+
+                </section>
+            <%= partial "parallax_image" %>
+                <%= partial "footer" %>
+    </body>
+
+</html>

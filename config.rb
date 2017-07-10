@@ -5,14 +5,19 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
-activate :i18n, :mount_at_root => :de # Mount german at root 
+#activate :i18n, :mount_at_root => :de # Mount german at root 
 
 set :js_dir, 'javascripts'
 set :css_dir, 'stylesheets'
 set :images_dir, "images"
 
+
+redirect "products", to: "http://www.innovista.ch/#products"
+
+
 activate :directory_indexes
 set :relative_links, false
+activate :sitemap, :gzip => false, :hostname => "http://www.innovista.ch"
 
 configure :build do
   activate :asset_hash
