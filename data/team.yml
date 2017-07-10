@@ -68,5 +68,51 @@ team:
   linkedin: https://www.linkedin.com/in/ursula-sury-45a1949/
   website: "http://www.dieadvokatur.ch/"
 
+- shortform: "rhaas"
+  name: "Dr. Roland Haas"
+  role: partner
+  responsability: "(Maschinenbau) Experte für «Frühphasen Innovationsprojekte»"
+  quote: >
+    <p>Seit mehr als 15 Jahren unterstütze ich Unternehmen und deren Projektteams insbesondere bei der Ideenfindung, der Produktfindung und -definition sowie bei der Durchführung komplexer Innovationsprojekte, immer mit dem Ziel eines maximalen Markterfolgs.</p>
+  underquote: >
+    <p>Studium mit Promotion an der ETH Zürich (Maschinenbau), Dr. sc. techn. ETH</p>
+    <p>Er ist zertifizierter Unternehmensberater CMC und Mitglied der ASCO, Association of Management Consultants Switzerland, sowie Vorstandmitglied des Innovation Networks Schweiz.</p>
+    <p>Darüber hinaus ist Roland Haas Lehrbeauftragter an der ETH-Zürich und weiteren Hochschulen.</p>
+  imagepath: team/roland.jpeg
+  modalimagepath: team/roland-modal.jpg
+  logopath: logos/haas_projekt_consulting.png
+  linkedin: "https://www.linkedin.com/in/roland-haas-530263/"
+  website: http://www.projektconsulting.ch/
+
+- shortform: "rportmann"
+  name: "Prof. Roland Portmann"
+  role: partner
+  responsability: "(Elektrotechnik &amp; Informatik), Experte für verteilte sichere Software Systeme"
+  quote: >
+    <p>Seit mehr als 15 Jahren unterstütze ich Unternehmen und deren Projektteams in IT-StrategieFragen. Aufgrund meiner Tätigkeit als Fachexperte bei IT-Sicherheits-Zertifizierungen kenne ich viele Firmen und kann für viele Herausforderungen moderne und praxisgerechte Lösungen aufzeigen.</p>
+  underquote: >  
+    <p>Studium an der ETH Zürich, Dipl. Informatik Ing. ETH<br />
+    Studium in Elektrotechnik an der Hochschule Luzern, Dipl. el. Ing. FH</p>
+    <p>Roland Portmann arbeitet für verschiedene Firmen im IT-Umfeld. Seine Spezialisierungen sind Information-Security und der Wandel der IT im Zeitalter des Cloud-Computings.</p>
+    <p>Darüber hinaus ist Roland Portmann Professor für Information Security an der Hochschule Luzern und erforscht aktuelle Sicherheitsaspekte des Internet of Things.</p>  
+  imagepath: team/rolli.jpeg
+  modalimagepath: team/rolli-modal.jpg
+  logopath: logos/ixon_gmbh.png
+  website: http://www.ixon.ch/
+
+- shortform: "hspillmann"
+  name: "PD Dr. Hannes Spillmann"
+  role: partner
+  responsability: "(Chemie /Experimentalphysik), Europäischer und Schweizer Patentanwalt"
+  quote: >
+    <p>Wer personelle Ressourcen, finanzielle Mitteln und Zeit in Forschung und Entwicklung steckt, hat berechtigterweise ein Interesse daran, dass Dritte die dabei gewonnen Erkenntnisse nicht einfach als Trittbrettfahrer nutzen können. Diesbezüglich können gewerbliche Schutzrechte, wie z.B. Patente, einen effektiven Schutz bieten. Aufgrund meiner langjährigen Tätigkeit als Patentanwalt für Klienten aus den unterschiedlichsten technischen Branchen sowie für ein grosses, global operierendes Schweizer Unternehmen der Spezialitätenchemie, kann ich Sie in diesem Zusammenhang entsprechend Ihren Bedürfnissen umfassend unterstützen.</p>
+  underquote: >  
+    <p>Studium mit Promotion in Physikalischer Chemie an der Universität Zürich (Dr. sc. nat, dipl. chem.), Post-Doc am Max Planck Institut für Festkörperforschung und Habilitation an der Universität Basel, Privatdozent für Nanowissenschaften/Experimentalphysik, Fachausbildung „Patent Litigation in Europe“ an der Universität Strassburg.</p>
+    <p>Hannes Spillmann ist Schweizer Patentanwalt und zugelassener Vertreter vor dem Europäischen Patentamt (European Patent Attorney). Zudem ist er nebenamtlicher Richter am Bundespatentgericht und Partner der Kanzlei Keller &amp; Partner Patentanwälte AG.</p>    
+  imagepath: team/hannes.jpeg
+  modalimagepath: team/hannes-modal.jpg
+  logopath: logos/kellerp.png
+  website: http://www.kellerpatent.ch/
+  linkedin: https://www.linkedin.com/in/hannes-spillmann-45166a42/
 
 
