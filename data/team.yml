@@ -19,7 +19,7 @@ team:
     des Bundes</p>
   imagepath: team/gaby.jpeg
   modalimagepath: team/gaby-modal.jpg
-  logopath: base/logo.png
+  logopath: base/logo-dark.png
   linkedin: https://www.linkedin.com/in/gabriele-schwarz-92529739/
 
 
@@ -28,7 +28,7 @@ team:
 - shortform: "dzollikofer"
   name: "David Zollikofer"
   role: team
-  responsability: "Backoffice Verantwortlicher &amp; angehender Physiker"
+  responsability: "Backoffice Verantwortlicher"
   quote: >
     <p>Es ist immer wieder faszinieren zu sehen, wie Innovativ die Schweiz ist.</p>
     <p>Auch ich will hierzu meinen Beitrag leisten indem ich sicherstelle, dass auch wir bei der Innovista
@@ -42,7 +42,7 @@ team:
   website: http://www.davidrzs.com
   imagepath: team/david.jpg
   modalimagepath: team/david-modal.jpg
-  logopath: base/logo.png
+  logopath: base/logo-dark.png
 
 
 
@@ -64,7 +64,7 @@ team:
     Niveau zu reduzieren.</p>
   imagepath: team/ursula.jpeg
   modalimagepath: team/ursula-modal.jpg
-  logopath: base/logo.png
+  logopath: logos/sury_advokatur.png
   linkedin: https://www.linkedin.com/in/ursula-sury-45a1949/
   website: "http://www.dieadvokatur.ch/"
 

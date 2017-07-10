@@ -7,10 +7,15 @@ end
 
 activate :i18n, :mount_at_root => :de # Mount german at root 
 
+set :js_dir, 'javascripts'
+set :css_dir, 'stylesheets'
+set :images_dir, "images"
 
+activate :directory_indexes
+set :relative_links, false
 
 configure :build do
-  #activate :asset_hash
+  activate :asset_hash
   activate :minify_html
   activate :minify_css
   activate :minify_javascript
