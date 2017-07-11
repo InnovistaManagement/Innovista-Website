@@ -11,6 +11,7 @@ set :js_dir, 'javascripts'
 set :css_dir, 'stylesheets'
 set :images_dir, "images"
 
+page "/404.html", :directory_index => false
 
 redirect "products", to: "http://www.innovista.ch/#products"
 
