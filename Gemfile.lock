@@ -31,10 +31,12 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     erubis (2.7.0)
+    eventmachine (1.2.3-x64-mingw32)
     eventmachine (1.2.3-x86-mingw32)
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.0)
+    ffi (1.9.18-x64-mingw32)
     ffi (1.9.18-x86-mingw32)
     haml (5.0.1)
       temple (>= 0.8.0)
@@ -123,6 +125,7 @@ GEM
     wdm (0.1.1)
 
 PLATFORMS
+  x64-mingw32
   x86-mingw32
 
 DEPENDENCIES
@@ -135,4 +138,4 @@ DEPENDENCIES
   wdm (~> 0.1)
 
 BUNDLED WITH
-   1.13.7
+   1.15.4
