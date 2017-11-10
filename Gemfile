@@ -7,3 +7,7 @@ gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw]
 gem 'middleman-livereload'
 gem 'middleman-minify-html'
 gem "middleman-sitemap", :git => "https://github.com/matsu911/middleman-sitemap"
+gem "middleman-blog", "~> 4.0"
+
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem "middleman-syntax"
