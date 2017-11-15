@@ -1,6 +1,8 @@
 ---
 title: My Middleman Blog Post
 date: 10.10.2017
+published: false
+
 ---
 
 # dkjsad
