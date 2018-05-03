@@ -1,43 +1,9 @@
 ---
-title: Innovista Management GmbH
-layout: home
-keywords: 
-    - success story
-    - Innovationsmentoring
+title: Lasertechnologie gegen das Fälschen von Medikamenten
+date: 3.5.2018
+published: true
+
 ---
-<link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet"> 
-<style>
-.post-body{
-    font-family: 'EB Garamond', serif !important;
-    line-height: 120% !important;
-    font-size: 135% !important;
-}
-.title_12{
-    font-family: 'EB Garamond', serif !important; 
-
-}
-.bqq{
-      font-family: 'EB Garamond', serif !important;
-    line-height: 120% !important;
-    font-size: 155% !important;
-}
-</style>
-<section>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 col-md-offset-2">
-            <article class="post-single">
-              <div class="post-info text-center">
-                <h2 class="title_12">Lasertechnologie gegen
-das Fälschen von Medikamenten</h2>
-                <h5 class="upper">Eine Success Story von Nano 4U</h5>
-              </div>
-              <div class="post-media">
-<!--<img src="images/blog/1.jpg" alt="">-->
-              </div>
-              <div class="post-body">
-
-
 
 <p>Einwegspritzen mit Medikamenten lassen sich einzeln
 nicht bis zum Produzenten rückverfolgen. In einem
@@ -67,16 +33,16 @@ ergibt unter der Leitung von Prof. Dr. Ronald Holtz, Teamleiter
 die Machbarkeit detailliert zu prüfen, beauftragt nano4U
 die FHNW mit dem Bau eines Prototyps. Das Ergebnis der
 ausführlichen Tests ist wiederum positiv.
-</p>                <blockquote class="bqq">
-                  <p class="">Ich bestand darauf, dass
-                wir trotz heikler patentrechtlicher
-                Verhandlungen
-                die gesamte Wertschöpfungskette
-                anschauen und
-                Partner für erste Testläufe
-                mit ins Boot holen.</p>
-                <p  class="" style="text-align: right;"> - Dr. Gabriele Schwarz, Innovista Management GmbH &amp Innosuisse</p>
-                </blockquote> <p>
+</p><blockquote class="bqq">
+<p class="">Ich bestand darauf, dass
+wir trotz heikler patentrechtlicher
+Verhandlungen
+die gesamte Wertschöpfungskette
+anschauen und
+Partner für erste Testläufe
+mit ins Boot holen.</p>
+<p  class="" style="text-align: right;"> - Dr. Gabriele Schwarz, Innovista Management GmbH &amp Innosuisse</p>
+</blockquote> <p>
 Mit Unterstützung der KTI wollen die beiden Partner LeseSchreib-Technologien
 entwickeln, um Spritzen mit einem
 Ultrakurzpulslaser individuell zu markieren und an neuralgischen
@@ -111,17 +77,3 @@ das unter anderem mit Lizenzen einen langfristigen
 Ertrag und den grösstmöglichen Schutz vor Nachahmern
 verspricht. Unterdessen führt nano4U diverse Gespräche
 mit potenziellen Endkunden.</p>
-
-
-
-
-              </div>
-              <a href="https://www.innovista.ch/static/success_story_kti_taetigkeitsbericht.pdf" data-scroll="true" class="btn btn-color">PDF herunterladen</a>
-            </article>
-            <!-- end of article-->
-          </div>
-        </div>
-      </div>
-
-    </section>
-
