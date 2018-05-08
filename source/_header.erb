@@ -7,17 +7,21 @@
                 </a>
             </div>
             <div class="menu-extras">
-                <div class="menu-item">
-                    <!-- Mobile menu toggle-->
-                    <a class="navbar-toggle">
-                        <div class="lines">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </a>
-                 </div>
-            </div>
+
+          
+          <div class="menu-item">
+            <!-- Mobile menu toggle-->
+            <a class="navbar-toggle">
+              <div class="lines">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </a>
+            <!-- End mobile menu toggle-->
+          </div>
+        </div>
+
 
             <div id="navigation">
                 <h2 class="visually-hidden">Main navigation</h2>
@@ -38,10 +42,7 @@
                             <li>
                             <%= link_to 'Innosuisse Mentoring', '/innosuisse', :class => 'is-active'%>
                             </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <%= link_to 'Innosuisse Mentoring', '/innosuisse', :class => 'is-active' %>
+                        </ul>   
                     </li>
                     <li>
                         <a href="/#team"  class="is-active">Team &amp; Partner</a>
@@ -55,7 +56,14 @@
                     <li>
                         <a href="/blog"  class="is-active">Blog</a>
                     </li>
+                    
                 </ul>
             </div>
         </div>
     </header>
+<style>
+.vl {
+    border-left: 6px solid black;
+    height: 500px;
+}
+</style>
