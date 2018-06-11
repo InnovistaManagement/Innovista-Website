@@ -37,9 +37,7 @@ team:
     mit der nötigen Effizienz ablaufen, damit sich das Kernteam komplett auf die Beratung unserer
     Kunden konzentrieren kann.</p>
   underquote: >
-    <p>Obwohl "Hauptberuflich" Physikstudent an der ETH Zürich, arbeitet er als IT &amp; Backoffice Guru
-    bei Innovista.</p>
-  website: http://www.davidrzs.com
+    <p>Ich bin der Backoffice und IT Guru der Innovista.</p>
   imagepath: team/david.jpg
   modalimagepath: team/david-modal.jpg
   logopath: base/logo-dark.png
@@ -90,11 +88,11 @@ team:
   responsability: "(Elektrotechnik &amp; Informatik), Experte für verteilte sichere Software Systeme"
   quote: >
     <p>Seit mehr als 15 Jahren unterstütze ich Unternehmen und deren Projektteams in IT-StrategieFragen. Aufgrund meiner Tätigkeit als Fachexperte bei IT-Sicherheits-Zertifizierungen kenne ich viele Firmen und kann für viele Herausforderungen moderne und praxisgerechte Lösungen aufzeigen.</p>
-  underquote: >  
+  underquote: >
     <p>Studium an der ETH Zürich, Dipl. Informatik Ing. ETH<br />
     Studium in Elektrotechnik an der Hochschule Luzern, Dipl. el. Ing. FH</p>
     <p>Roland Portmann arbeitet für verschiedene Firmen im IT-Umfeld. Seine Spezialisierungen sind Information-Security und der Wandel der IT im Zeitalter des Cloud-Computings.</p>
-    <p>Darüber hinaus ist Roland Portmann Professor für Information Security an der Hochschule Luzern und erforscht aktuelle Sicherheitsaspekte des Internet of Things.</p>  
+    <p>Darüber hinaus ist Roland Portmann Professor für Information Security an der Hochschule Luzern und erforscht aktuelle Sicherheitsaspekte des Internet of Things.</p>
   imagepath: team/rolli.jpeg
   modalimagepath: team/rolli-modal.jpg
   logopath: logos/ixon_gmbh.png
@@ -106,13 +104,11 @@ team:
   responsability: "(Chemie /Experimentalphysik), Europäischer und Schweizer Patentanwalt"
   quote: >
     <p>Wer personelle Ressourcen, finanzielle Mitteln und Zeit in Forschung und Entwicklung steckt, hat berechtigterweise ein Interesse daran, dass Dritte die dabei gewonnen Erkenntnisse nicht einfach als Trittbrettfahrer nutzen können. Diesbezüglich können gewerbliche Schutzrechte, wie z.B. Patente, einen effektiven Schutz bieten. Aufgrund meiner langjährigen Tätigkeit als Patentanwalt für Klienten aus den unterschiedlichsten technischen Branchen sowie für ein grosses, global operierendes Schweizer Unternehmen der Spezialitätenchemie, kann ich Sie in diesem Zusammenhang entsprechend Ihren Bedürfnissen umfassend unterstützen.</p>
-  underquote: >  
+  underquote: >
     <p>Studium mit Promotion in Physikalischer Chemie an der Universität Zürich (Dr. sc. nat, dipl. chem.), Post-Doc am Max Planck Institut für Festkörperforschung und Habilitation an der Universität Basel, Privatdozent für Nanowissenschaften/Experimentalphysik, Fachausbildung „Patent Litigation in Europe“ an der Universität Strassburg.</p>
-    <p>Hannes Spillmann ist Schweizer Patentanwalt und zugelassener Vertreter vor dem Europäischen Patentamt (European Patent Attorney). Zudem ist er nebenamtlicher Richter am Bundespatentgericht und Partner der Kanzlei Keller &amp; Partner Patentanwälte AG.</p>    
+    <p>Hannes Spillmann ist Schweizer Patentanwalt und zugelassener Vertreter vor dem Europäischen Patentamt (European Patent Attorney). Zudem ist er nebenamtlicher Richter am Bundespatentgericht und Partner der Kanzlei Keller &amp; Partner Patentanwälte AG.</p>
   imagepath: team/hannes.jpeg
   modalimagepath: team/hannes-modal.jpg
   logopath: logos/kellerp.png
   website: http://www.kellerpatent.ch/
   linkedin: https://www.linkedin.com/in/hannes-spillmann-45166a42/
-
-
