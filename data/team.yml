@@ -40,6 +40,8 @@ team:
   imagepath: team/david.jpg
   modalimagepath: team/david-modal.jpg
   logopath: base/logo-dark.png
+  website: "https://davidrzs.gitlab.io"
+
 
 
 

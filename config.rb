@@ -17,12 +17,12 @@ page "/404.html", :directory_index => false
 
 redirect "products", to: "http://www.innovista.ch/#products"
 
-
-activate :blog do |blog|
-  blog.layout = "blog_article"
-  blog.sources = "blog/articles/{category}/{title}.html"
-  blog.permalink = "blog/{category}/{title}"
-end
+ignore 'blog/*'
+#activate :blog do |blog|
+#  blog.layout = "blog_article"
+#  blog.sources = "blog/articles/{category}/{title}.html"
+#  blog.permalink = "blog/{category}/{title}"
+#end
 
 activate :directory_indexes
 set :relative_links, false

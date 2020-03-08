@@ -2,7 +2,6 @@
 title: Lasertechnologie gegen das Fälschen von Medikamenten
 date: 3.5.2018
 published: true
-
 ---
 
 <p>Einwegspritzen mit Medikamenten lassen sich einzeln
