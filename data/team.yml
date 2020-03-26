@@ -16,9 +16,12 @@ team:
     und der Universität St.Gallen</p>
     <p>Gabriele Schwarz ist Gründungspartnerin von Innovista Management und akkreditierte Innovationsmentorin der Innosuisse (früher KTI)
     des Bundes</p>
+    <p>Sie ist unter <a href="mailto:gschwarz@innovista.ch">gschwarz@innovista.ch</a> erreichbar.</p>
+
   imagepath: team/gaby.jpeg
   modalimagepath: team/gaby-modal.jpg
   logopath: base/logo-dark.png
+  email: gschwarz@innovista.ch
   linkedin: https://www.linkedin.com/in/gabriele-schwarz-92529739/
 
 
@@ -40,6 +43,7 @@ team:
   imagepath: team/david.jpg
   modalimagepath: team/david-modal.jpg
   logopath: base/logo-dark.png
+  email: dzollikofer@innovista.ch
   website: "https://davidrzs.gitlab.io"
 
 

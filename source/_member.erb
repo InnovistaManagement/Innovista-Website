@@ -26,14 +26,23 @@
                             <p><strong><%= @tm[:name] %></strong></p>
                         </blockquote>
                         <%= @tm[:underquote] %>
+
+                        
+
                         <div class="team-social">
                             <ul>
+                            
+                            <% unless @tm[:email].blank? %>
+                            <li><a href= "mailto:<%=@tm[:email]%>"><i class="ti-email"></i></a></li>
+                            <% end %>
+
                             <% unless @tm[:linkedin].blank? %>
                                 <li><a href="<%= @tm[:linkedin] %>" target="_blank"><i class="ti-linkedin"></i></a></li>
                             <% end %>
                             <% unless @tm[:website].blank? %>
                                 <li><a href="<%= @tm[:website] %>" target="_blank"><i class="ti-link"></i></a></li>
                             <% end %>
+
                             </ul>
                         </div>
                     </div>

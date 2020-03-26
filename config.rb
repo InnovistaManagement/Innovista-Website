@@ -26,7 +26,6 @@ ignore 'blog/*'
 
 activate :directory_indexes
 set :relative_links, false
-activate :sitemap, :gzip => false, :hostname => "http://www.innovista.ch"
 
 configure :build do
   activate :minify_html
