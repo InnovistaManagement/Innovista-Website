@@ -27,6 +27,23 @@ team:
 
 
 
+- shortform: "obrennwald"
+  name: "Oliver Brennwald"
+  role: team
+  responsability: "Wirtschaftsinformatiker und wissenschaftliche Unterstützung"
+  quote: >
+      <p> Die Probleme von heute mit Ideen von morgen lösen. Fasziniert von neuen Technologien und Konzepten, versuche ich innovative Lösungen zu kreieren. </p>  
+  underquote: >
+      <p> cand. Master of Science in Information Systems & Informatics an der Universität Zürich </p>
+      <p> Oliver Brennwald unterstützt das Team mit Fachwissen und stehe bei IT-Fragen beratend zur Seite. </p>
+
+  imagepath: team/oliver.jpg
+  modalimagepath: team/oliver-modal.jpg
+  logopath: base/logo-dark.png
+  linkedin: https://www.linkedin.com/in/oliver-brennwald-512633132/
+  
+
+
 - shortform: "dzollikofer"
   name: "David Zollikofer"
   role: team
