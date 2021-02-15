@@ -48,14 +48,9 @@ team:
   role: team
   responsability: "Backoffice Verantwortlicher"
   quote: >
-    <p>Es ist immer wieder faszinieren zu sehen, wie Innovativ die Schweiz ist.</p>
-    <p>Auch ich will hierzu meinen Beitrag leisten indem ich sicherstelle, dass auch wir bei der Innovista
-    innovativ und agil bleiben.</p>
-    <p>Mit meiner Arbeit unterstütze ich die Kernprozesse und sorge dafür, dass alle unseren Tätigkeiten
-    mit der nötigen Effizienz ablaufen, damit sich das Kernteam komplett auf die Beratung unserer
-    Kunden konzentrieren kann.</p>
+    <p>Damit wir heute die Gegenwart der Zukunft gestalten können, kümmere ich mich um den Reibungslosen Ablauf hinter den Kulissen.</p><p>Dabei faszinieren mich, hautnah prägenden Projekten von morgen zu erleben.</p>
   underquote: >
-    <p>Ich bin der Backoffice und IT Guru der Innovista.</p>
+    <p>Ich bin für den reibungslosen Ablauf im Hintergrund zuständig.</p>
   imagepath: team/simon.jpg
   modalimagepath: team/simon-modal.jpg
   logopath: base/logo-dark.png
