@@ -33,7 +33,7 @@ team:
   quote: >
       <p> Die Probleme von heute mit Ideen von morgen lösen. Fasziniert von neuen Technologien und Konzepten, versuche ich innovative Lösungen zu kreieren. </p>  
   underquote: >
-      <p> cand. Master of Science in Information Systems & Informatics an der Universität Zürich </p>
+      <p> Master of Science in Information Systems & Informatics an der Universität Zürich </p>
       <p> Oliver Brennwald unterstützt das Team mit Fachwissen und stehe bei IT-Fragen beratend zur Seite. </p>
 
   imagepath: team/oliver_brennwald.jpg
@@ -43,8 +43,8 @@ team:
   
 
 
-- shortform: "dzollikofer"
-  name: "David Zollikofer"
+- shortform: "slangenstein"
+  name: "Simon Langenstein"
   role: team
   responsability: "Backoffice Verantwortlicher"
   quote: >
@@ -56,6 +56,25 @@ team:
     Kunden konzentrieren kann.</p>
   underquote: >
     <p>Ich bin der Backoffice und IT Guru der Innovista.</p>
+  imagepath: team/simon.jpg
+  modalimagepath: team/simon-modal.jpg
+  logopath: base/logo-dark.png
+  email: slangenstein@innovista.ch
+
+
+- shortform: "dzollikofer"
+  name: "David Zollikofer"
+  role: team
+  responsability: "IT und Backoffice Mitarbeiter"
+  quote: >
+    <p>Es ist immer wieder faszinieren zu sehen, wie Innovativ die Schweiz ist.</p>
+    <p>Auch ich will hierzu meinen Beitrag leisten indem ich sicherstelle, dass auch wir bei der Innovista
+    innovativ und agil bleiben.</p>
+    <p>Mit meiner Arbeit unterstütze ich die Kernprozesse und sorge dafür, dass alle unseren Tätigkeiten
+    mit der nötigen Effizienz ablaufen, damit sich das Kernteam komplett auf die Beratung unserer
+    Kunden konzentrieren kann.</p>
+  underquote: >
+    <p>Als Informatikstudent an der ETH bin ich der Backoffice und IT Guru der Innovista.</p>
   imagepath: team/david_zollikofer.jpg
   modalimagepath: team/david-modal.jpg
   logopath: base/logo-dark.png

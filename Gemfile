@@ -8,3 +8,4 @@ gem "middleman-blog", "~> 4.0"
 
 gem 'tzinfo-data'
 gem "middleman-syntax"
+gem 'webrick'
