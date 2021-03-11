@@ -76,6 +76,18 @@ team:
   email: dzollikofer@innovista.ch
   website: "https://davidrzs.gitlab.io"
 
+- shortform: "flindell"
+  name: "Franziska Lindell"
+  role: partner
+  responsability: "Marketing &amp; Social Media Spezialistin"
+  quote: >
+    <p>Der mediale Auftritt wird im heutigen Zeitalter immer wichtiger.
+    Darum ist es wichtig, immer auf dem neusten Stand zu sein.
+    Ich kümmere mich um den öffentlichen Auftritt der Innovista.</p>
+  imagepath: team/franziska.jpg
+  modalimagepath: team/franziska-modal.jpg
+  logopath: base/logo-dark.png
+  linkedin: https://www.linkedin.com/in/franziska-k-lindell-b182692/
 
 
 
@@ -100,4 +112,3 @@ team:
   logopath: logos/sury_advokatur.png
   linkedin: https://www.linkedin.com/in/ursula-sury-45a1949/
   website: "http://www.dieadvokatur.ch/"
-
