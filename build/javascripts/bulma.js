@@ -1,1 +1,0 @@
-!function(){var e=document.querySelector(".nav-toggle"),t=document.querySelector(".nav-menu");e.addEventListener("click",function(){e.classList.toggle("is-active"),t.classList.toggle("is-active")})}();
